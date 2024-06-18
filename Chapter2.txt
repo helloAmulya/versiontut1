@@ -1,2 +1,14 @@
 This is 2nd chapter
 
+commands to use in "git operations"
+
+1)mkdir filename // make new directory 
+2)echo " text here if u want" >  filename // to create file using cmd
+3)type > filename // to print file content
+4)notepad filename // to edit file after creation
+5)git init // for fit initialization in folder
+6)git status // to check files not commited
+7)git add . // to add all files at once
+8)git add filename // to add particular file
+9)git commit -m "your commit msg" // commit
+10)git log // to check what last commited and when
